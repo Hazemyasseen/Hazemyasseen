@@ -3,7 +3,7 @@
 <h1 align = center > AI & Automation Engineer </h1>
 
   <p align="center">
-    <a href="www.linkedin.com/in/hazem-yasseen-07518420b"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/hazem-yasseen"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <p/>
   
 
@@ -32,16 +32,17 @@
 # Languages and Tools:
 <br/>
   <div align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazemyasseen&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Hazemyasseen" /></div>
-  
+ 
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
  <code><img width="8%"  src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
  <code><img width="8%"  src="https://cdn.svgporn.com/logos/c.svg"></code>
- <code><img width="8%"  src="https://cdn.svgporn.com/logos/c-sharp.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
  <br />
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
- <br/>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
+ <br />
+ <code><img width="15%"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1024px-TensorFlow_logo.svg.png"></code>
+ <code><img width="15%" src="https://cdn.botpenguin.com/assets/website/1700940849777_e0b2d37510.webp"></code>
+ <code><img width="20%" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Hugging_Face_logo.svg/1920px-Hugging_Face_logo.svg.png"></code>
+
